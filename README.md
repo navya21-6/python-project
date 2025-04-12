@@ -1,1 +1,1 @@
-# python-project
+The primary objective of this project was to analyze and classify Netflix content using data science and machine learning techniques. By utilizing the Netflix Titles dataset, we performed extensive data preprocessing, handled missing values, and engineered features that contributed to building an effective classification model. Exploratory Data Analysis revealed valuable insights into the platform’s content distribution, including trends in release years, geographic origin of content, and the ratio of movies to TV shows.
